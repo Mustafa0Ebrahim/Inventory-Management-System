@@ -24,14 +24,4 @@ A **command-line-based inventory tracker** built with Python using **Object-Orie
 - **CSV file I/O**
 - **Matplotlib** (for stock visualization)
 
----
-
-## 📷 Screenshots
-
-> 💡 Include screenshots of the CLI menu or chart if you'd like! You can upload them and add like this:
-
-```markdown
-![CLI Menu](screenshots/menu.png)
-![Stock Chart](screenshots/chart.png)
-
 
